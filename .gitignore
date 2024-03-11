@@ -1,13 +1,14 @@
 .DS_Store
-images/
-similarColors/
-imagesWithoutBackground/
-similarComplementaryColor/
-imagesWithBackground/
-similarImages/
-background.jpg/
-visitedURL.txt/
+app/images/
+app/similarColors/
+app/imagesWithoutBackground/
+app/similarComplementaryColor/
+app/imagesWithBackground/
+app/similarImages/
+app/background.jpg/
+app/visitedURL.txt/
 
 __pycache__/
 *.py[cod]
 *$py.class
+.idea
