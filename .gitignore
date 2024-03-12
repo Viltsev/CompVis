@@ -5,8 +5,9 @@ app/imagesWithoutBackground/
 app/similarComplementaryColor/
 app/imagesWithBackground/
 app/similarImages/
-app/background.jpg/
-app/visitedURL.txt/
+app/background.jpg
+app/visitedURL.txt
+app/clipResults/
 
 __pycache__/
 *.py[cod]
